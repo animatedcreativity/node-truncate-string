@@ -1,0 +1,14 @@
+dependencies:
+  node-sanitize-options: 0.0.6
+packages:
+  /node-sanitize-options/0.0.6:
+    dev: false
+    engines:
+      node: 8.x
+    resolution:
+      integrity: sha512-emcphNAODYV233/I035VdeKbEZzhCvTshZ+JyHdG8kmrnMttTVD9lmeWFwdAjNL5C0ODNnnfztGjiqZa41mukw==
+registry: 'https://registry.npmjs.org/'
+shrinkwrapMinorVersion: 9
+shrinkwrapVersion: 3
+specifiers:
+  node-sanitize-options: ^0.0.6

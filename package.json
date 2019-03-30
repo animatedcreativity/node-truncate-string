@@ -1,0 +1,27 @@
+{
+  "name": "node-truncate-string",
+  "version": "0.0.1",
+  "description": "Truncates string with an ellipsis and preserves full word, if needed.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "node-sanitize-options": "^0.0.6"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://github.com/animatedcreativity/node-truncate-utf8"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "truncate",
+    "ellipsis",
+    "full",
+    "word",
+    "string"
+  ]
+}
