@@ -13,7 +13,7 @@ truncate(string, length, options);
 - length: Length of the truncated string.
 - options: Options to use for truncating.
 
-**Options:**
+**Options (Default):**
 
 ```
 {

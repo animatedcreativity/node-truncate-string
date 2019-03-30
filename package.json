@@ -1,6 +1,6 @@
 {
   "name": "node-truncate-string",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Truncates string with an ellipsis and preserves full word, if needed.",
   "main": "main.js",
   "scripts": {
